@@ -1,15 +1,15 @@
 ## Hi there 👋 I'm BonnieSandgren 💙
-I am a data analyst
+-I am a data analyst
 
-🩸Phlebotomist interested in data
+-🩸Phlebotomist interested in data
 
-🤓lifelong learner
+-🤓lifelong learner
 
-🌻learning SQL, Power BI, Tableau, excel
+-🌻learning SQL, Power BI, Tableau, excel
 
-🍂hiker, walker, weight trainer
+-🍂hiker, walker, weight trainer
 
-🌊contact me @ https://www.linkedin.com/in/bonnie-sandgren-214509134/
+-🌊contact me @ https://www.linkedin.com/in/bonnie-sandgren-214509134/
 
 <!--
 **BonnieSandgren/BonnieSandgren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
