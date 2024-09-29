@@ -1,9 +1,9 @@
-## Hi there 👋 I'm BonnieSandgren 💙
+## Hi there 👋 I'm Bonnie Sandgren 💙
 - I am a data analyst
 - 🩸Phlebotomist interested in data
 - 🤓lifelong learner
 - 🌻learning SQL, Power BI, Tableau, excel
-- 🍂hiker, walker, weight trainer
+- 🍂hiker, walker, weight trainer, concert lover
 - 🌊contact me @ https://www.linkedin.com/in/bonnie-sandgren-214509134/
 
 <!--
