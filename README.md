@@ -2,7 +2,7 @@
 - I am a data analyst
 - 🩸Phlebotomist interested in data
 - 🤓lifelong learner
-- 🌻learning SQL, Power BI, Tableau, excel
+- 🌻learning SQL, Power BI, Tableau, Excel, Looker
 - 🍂hiker, walker, weight trainer, concert lover
 - 🌊contact me @ https://www.linkedin.com/in/bonnie-sandgren-214509134/
 
