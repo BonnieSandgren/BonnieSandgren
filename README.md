@@ -3,6 +3,7 @@
 - 🩸Phlebotomist interested in data
 - 🤓lifelong learner
 - 🌻learning SQL, Power BI, Tableau, Excel, Looker
+- 🦋Not afraid to suck at something new.
 - 🍂hiker, walker, weight trainer, concert lover
 - 🌊contact me @ https://www.linkedin.com/in/bonnie-sandgren-214509134/
 
